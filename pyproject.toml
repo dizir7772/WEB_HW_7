@@ -7,6 +7,10 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
+sqlalchemy = "^2.0.23"
+faker = "^19.13.0"
+alembic = "^1.12.1"
+psycopg2 = "^2.9.9"
 
 
 [build-system]
